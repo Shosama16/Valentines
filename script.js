@@ -2,7 +2,7 @@ const messages = [
     "Sure na yan?",
     "As in?",
     "Luh, seryoso?",
-    "Loveee pleaseee...",
+    "Loveeee pleaseee...",
     "Just think about it!",
     "If you say no, iiyak ako...",
     "ma long coat ako niyan...",
